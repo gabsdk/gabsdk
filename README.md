@@ -24,9 +24,8 @@ Pragmatic, results-driven full-stack developer with **4+ years** of experience b
 | --- | --- |
 | [Arara Code](https://arara.code.app.br) | Open-source AI-native IDE (Code-OSS) integrating Codex, Claude Code & Antigravity, with cloud dev (Arara Cloud), P2P mobile PWA (Arara App), and Arara Browser. |
 | [RBot](https://rbot.com.br) | SaaS for humanized mass WhatsApp messaging using multiple LLMs, vector knowledge and 50+ simultaneous numbers. **2,650% ROI.** |
-| [Copiei.com](https://copiei.com) | Instant, temporary universal clipboard between devices via 4-digit code or QR, self-destructing after 2 minutes. No sign-up. |
 | WhatsApp CRM Extension | WhatsApp Web extension integrated with an institution's CRM: reminders, image editor, real-time notifications and scheduled follow-ups, driving millions in enrollment results. |
-| Lia — Educational AI Agent | Full-stack development and infrastructure for an AI assistant providing personalized student support in distance learning. |
+| Educational AI Agent | Full-stack development and infrastructure for an AI assistant providing personalized student support in distance learning. |
 
 ## Tech stack
 
@@ -40,7 +39,7 @@ Pragmatic, results-driven full-stack developer with **4+ years** of experience b
 
 **Testing & Monitoring**
 
-![Skills](https://skillicons.dev/icons?i=playwright,postman,grafana,prometheus,sentry)
+![Skills](https://skillicons.dev/icons?i=postman,grafana,prometheus,sentry)
 
 ---
 
